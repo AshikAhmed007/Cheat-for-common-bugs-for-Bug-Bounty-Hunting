@@ -1,1 +1,1 @@
-#Cheat-for-common-bugs-for-Bug-Bounty-Hunting
+# Cheat-for-common-bugs-for-Bug-Bounty-Hunting
